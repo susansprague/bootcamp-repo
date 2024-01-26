@@ -1,20 +1,23 @@
 .lesson {
-    width: 200px;
-    height: 100px;
-  }
-  
-.section-blue {
-
+  width: 200px;
+  height: 100px;
 }
-  
-.container {
 
+.section-blue {
+  color: #ffa500;
+  background-color: #00f;
+}
+
+.container {
+  color: white;
+  background-color: black;
 }
 
 #section-1 {
-
+  color: #ff0;
+  background-color: #800080;
 }
 
 #section-6 {
-
+  color: #ffff00;
 }
